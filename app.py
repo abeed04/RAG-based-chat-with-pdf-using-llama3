@@ -46,7 +46,7 @@ def get_conversational_chain():
     Answer:
     """
 
-    model = ChatGroq(groq_api_key="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",model_name="Llama3-8b-8192")
+    model = ChatGroq(groq_api_key=groq_api_key,model_name="Llama3-8b-8192")
 
     prompt = PromptTemplate(template = prompt_template, input_variables = ["context", "question"])
     chain = load_qa_chain(model, chain_type="stuff", prompt=prompt)
