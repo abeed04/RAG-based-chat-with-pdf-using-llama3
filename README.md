@@ -2,7 +2,7 @@
 <h2 align="center">Introduction</h2>
 A simple Streamlit app interface that answers questions about an uploaded PDF document via Llama3.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rag-based-chat-with-pdf-using-llama3.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rag-based-chat-with-pdf-using-llama.streamlit.app/)
 
 <img  align="right" height=290 width=510 src="https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/jumpstart/jumpstart-fm-rag.jpg" />
 
